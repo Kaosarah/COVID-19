@@ -77,7 +77,9 @@ SELECT [continent],
    GROUP BY [location], continent,YEAR([date]),[date], [population]
    ORDER BY [location]; 
    ```
+   
    ## Analysis
+   
    Click link below for the interactive dashboard and to view insights generated
    
    https://public.tableau.com/app/profile/lawal.kaosarah/viz/covid19_16629089640860/Dashboard1?publish=yes
@@ -86,10 +88,15 @@ SELECT [continent],
    
    As at September 1, 2022 there were 602,534,782 confirmed cases and 6,458,913 death cases. United state has the highest confirmed and death cases.
    United state, India, France, Germany, South Korea, United Kingdom, Italy, Russia and Japan have the highest covid prevalence.
+   
    China records the highest vaccination history with 88% of it population vaccinated, follow by Brazil(80.12% of entire population),India (66.96%) and United state (66.5%). 
+   
   Papua New Guinea(2.86%), Madagascar(4.84%), Cameroon(4.51%), Burundi(0.14%), Haiti(1.46%) and Yemen(0.13%) are the countries with the lowest population vaccination records.
+  
  Awareness about the importance of the vaccines should be in place in Countries with low vaccination history and more vaccines should be provided.
+ 
  Individuals showing any form of Covid19 symptoms should visit the clinic for proper checkup and treatment as there is low death rate and high recovery rate.
+ 
  Proper preventive measures to eliminate or minimize the transimmision of the infection should not be neglect.
    
    
