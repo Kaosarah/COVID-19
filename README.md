@@ -2,7 +2,8 @@
 
 ## Data source
 
-This dataset was gotten from Our World in data website github account using this link https://github.com/owid/covid-19-data/tree/master/public/data
+This dataset was gotten from Our World in data's github account, access it [here](https://github.com/owid/covid-19-data/tree/master/public/data)
+
 It contains information about COVID-19 confirmed cases, death cases, vaccination records and population of countries and other specific locations in the world.
 
 **Dataset before cleaning**
@@ -80,16 +81,16 @@ SELECT [continent],
    
    ## Analysis
    
-   Click link below for the interactive dashboard and to view insights generated
+   Click [here](
+   https://public.tableau.com/app/profile/lawal.kaosarah/viz/covid19_16629089640860/Dashboard1?publish=yes) for the interactive dashboard and to view insights generated
    
-   https://public.tableau.com/app/profile/lawal.kaosarah/viz/covid19_16629089640860/Dashboard1?publish=yes
    
    ## Findings and Recommendations
    
    As at September 1, 2022 there were 602,534,782 confirmed cases and 6,458,913 death cases. United state has the highest confirmed and death cases.
    United state, India, France, Germany, South Korea, United Kingdom, Italy, Russia and Japan have the highest covid prevalence.
    
-   China records the highest vaccination history with 88% of it population vaccinated, follow by Brazil(80.12% of entire population),India (66.96%) and United state (66.5%). 
+   China records the highest vaccination history with 88% of it population vaccinated, follow by Brazil(80.12% of entire population),India (66.96%) and United state  (66.5%). 
    
   Papua New Guinea(2.86%), Madagascar(4.84%), Cameroon(4.51%), Burundi(0.14%), Haiti(1.46%) and Yemen(0.13%) are the countries with the lowest population vaccination records.
   
